@@ -1,0 +1,37 @@
+body{
+    color:black;
+    background-color:cornsilk;
+font-size: 16px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+body
+.black-border {
+    border: 2px solid plum;
+}
+#list {
+    background-color: rosybrown;
+    text-align: center;
+}
+ul {
+    position: relative;
+    left: 550px;
+    width: 200px;
+    height: 120px;
+    border: ;
+}
+h1{color:blueviolet}
+h1, h2, p {
+    text-align:center ;
+}
+figure{
+    display: block;
+    text-align: center;
+    margin: 0;
+}
+ nav, footer{
+    text-align: end;
+}
+a { 
+    text-align: end;
+}
